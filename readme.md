@@ -1,15 +1,14 @@
 # Sorting Algorithms
 
-## Learning Objectives
-* Describe how a Bubble Sort is performed and its time complexity
-* Implement a sorting algorithm in ruby
-* Offer a solution to optimize the algorithm
+* Describe how a Bubble Sort is performed and it's time complexity
+* Impliment a sorting algorithm in javascript
+* Offer a solution to optomize the algorithm
 
 ## To do
 
-* Run the `rspec` command in the root directory of this project.
+* Run `npm install`
 
-* Use our pseudo code in class to try to get the tests to pass
+* Run `npm test` from the root in the root directory of this directory.
 
 ## Hint
 * Check the [pseudo code listed on wikipedia](http://en.wikipedia.org/wiki/Bubble_sort). Make sure you understand how it works.
